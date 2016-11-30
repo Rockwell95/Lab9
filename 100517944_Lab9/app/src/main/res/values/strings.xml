@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">100517944_Lab8</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="address_line_1">Address Line 1</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="locality">Locality</string>
+    <string name="administrative_division">Administrative Division</string>
+    <string name="country">Country</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="url">Url</string>
+    <string name="show_on_map">Show on Map</string>
+</resources>
